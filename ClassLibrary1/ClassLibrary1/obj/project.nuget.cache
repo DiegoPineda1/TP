@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JlG0giaQnQI=",
+  "dgSpecHash": "IiKUJMcqgAc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego Pineda\\source\\repos\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj",
+  "projectFilePath": "C:\\Users\\Diego Pineda\\Source\\Repos\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego Pineda\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Diego Pineda\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
