@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lW1ld0lIHK0=",
+  "dgSpecHash": "gbeUT04x0bc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego Pineda\\source\\repos\\ClassLibrary1\\ApiClientes\\ApiClientes.csproj",
+  "projectFilePath": "C:\\Users\\Diego Pineda\\Source\\Repos\\TP\\ClassLibrary1\\ApiClientes\\ApiClientes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego Pineda\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Diego Pineda\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

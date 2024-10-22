@@ -18,8 +18,11 @@ namespace BackCochera.Servicios.ClienteSevicio
         }
         public async Task<bool> CreateCliente(CLIENTE cliente)
         {
-            await _unitOfWork.ClienteRepository.CreateCliente(cliente);
-            await _unitOfWork.SaveChangesAsync();
+            var agregado = await _unitOfWork.ClienteRepository.CreateCliente(cliente);
+            if (agregado)
+            {
+                await _unitOfWork.SaveChangesAsync();
+            }
             return true;
         }
         public async Task<bool> DeleteCliente(int id)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiClientes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb4a08708d4582c82f2d1eb5ca6163cd9dcb866e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiClientes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiClientes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
