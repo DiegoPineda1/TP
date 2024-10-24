@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiVehiculo\\ApiVehiculo.csproj": {}
+    "C:\\Users\\veron\\OneDrive\\Documentos\\Facultad\\Tecnicatura universitaria en Programacion\\Programacion II\\TPI\\TP\\ClassLibrary1\\ApiVehiculo\\ApiVehiculo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiVehiculo\\ApiVehiculo.csproj": {
+    "C:\\Users\\veron\\OneDrive\\Documentos\\Facultad\\Tecnicatura universitaria en Programacion\\Programacion II\\TPI\\TP\\ClassLibrary1\\ApiVehiculo\\ApiVehiculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiVehiculo\\ApiVehiculo.csproj",
+        "projectUniqueName": "C:\\Users\\veron\\OneDrive\\Documentos\\Facultad\\Tecnicatura universitaria en Programacion\\Programacion II\\TPI\\TP\\ClassLibrary1\\ApiVehiculo\\ApiVehiculo.csproj",
         "projectName": "ApiVehiculo",
-        "projectPath": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiVehiculo\\ApiVehiculo.csproj",
-        "packagesPath": "C:\\Users\\Ema\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiVehiculo\\obj\\",
+        "projectPath": "C:\\Users\\veron\\OneDrive\\Documentos\\Facultad\\Tecnicatura universitaria en Programacion\\Programacion II\\TPI\\TP\\ClassLibrary1\\ApiVehiculo\\ApiVehiculo.csproj",
+        "packagesPath": "C:\\Users\\veron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\veron\\OneDrive\\Documentos\\Facultad\\Tecnicatura universitaria en Programacion\\Programacion II\\TPI\\TP\\ClassLibrary1\\ApiVehiculo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ema\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\veron\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj": {
-                "projectPath": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj"
+              "C:\\Users\\veron\\OneDrive\\Documentos\\Facultad\\Tecnicatura universitaria en Programacion\\Programacion II\\TPI\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj": {
+                "projectPath": "C:\\Users\\veron\\OneDrive\\Documentos\\Facultad\\Tecnicatura universitaria en Programacion\\Programacion II\\TPI\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj"
               }
             }
           }
@@ -82,20 +82,20 @@
         }
       }
     },
-    "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj": {
+    "C:\\Users\\veron\\OneDrive\\Documentos\\Facultad\\Tecnicatura universitaria en Programacion\\Programacion II\\TPI\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj",
+        "projectUniqueName": "C:\\Users\\veron\\OneDrive\\Documentos\\Facultad\\Tecnicatura universitaria en Programacion\\Programacion II\\TPI\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj",
         "projectName": "BackCochera",
-        "projectPath": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj",
-        "packagesPath": "C:\\Users\\Ema\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\obj\\",
+        "projectPath": "C:\\Users\\veron\\OneDrive\\Documentos\\Facultad\\Tecnicatura universitaria en Programacion\\Programacion II\\TPI\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj",
+        "packagesPath": "C:\\Users\\veron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\veron\\OneDrive\\Documentos\\Facultad\\Tecnicatura universitaria en Programacion\\Programacion II\\TPI\\TP\\ClassLibrary1\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ema\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\veron\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -42,3 +42,18 @@ C:\Users\Ema\Desktop\Nuevo Cochera\TP\ClassLibrary1\ClassLibrary1\bin\Debug\net8
 C:\Users\Ema\Desktop\Nuevo Cochera\TP\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\BackCochera.pdb
 C:\Users\Ema\Desktop\Nuevo Cochera\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.genruntimeconfig.cache
 C:\Users\Ema\Desktop\Nuevo Cochera\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ref\BackCochera.dll
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\BackCochera.deps.json
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\BackCochera.runtimeconfig.json
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\BackCochera.dll
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\BackCochera.pdb
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.csproj.AssemblyReference.cache
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.AssemblyInfoInputs.cache
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.AssemblyInfo.cs
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.csproj.CoreCompileInputs.cache
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.sourcelink.json
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.dll
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\refint\BackCochera.dll
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.pdb
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.genruntimeconfig.cache
+C:\Users\veron\OneDrive\Documentos\Facultad\Tecnicatura universitaria en Programacion\Programacion II\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ref\BackCochera.dll
