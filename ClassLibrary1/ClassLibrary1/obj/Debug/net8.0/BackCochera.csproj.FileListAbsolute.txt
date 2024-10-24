@@ -42,3 +42,18 @@ C:\Users\Ema\Desktop\Nuevo Cochera\TP\ClassLibrary1\ClassLibrary1\bin\Debug\net8
 C:\Users\Ema\Desktop\Nuevo Cochera\TP\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\BackCochera.pdb
 C:\Users\Ema\Desktop\Nuevo Cochera\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.genruntimeconfig.cache
 C:\Users\Ema\Desktop\Nuevo Cochera\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ref\BackCochera.dll
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\BackCochera.deps.json
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\BackCochera.runtimeconfig.json
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\BackCochera.dll
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\BackCochera.pdb
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.sourcelink.json
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.dll
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\refint\BackCochera.dll
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.pdb
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\BackCochera.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\TPI\TP\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ref\BackCochera.dll
