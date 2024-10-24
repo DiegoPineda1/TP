@@ -20,6 +20,8 @@ namespace ApiClientes.Controllers
         {
             return await _unitOfWork.ClienteRepository.GetAllClientes();
         }
+
+
         [HttpGet("{id}")]
         public async Task<ActionResult<CLIENTE>> GetCliente(int id)
         {

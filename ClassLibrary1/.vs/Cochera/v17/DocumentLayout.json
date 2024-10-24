@@ -1,7 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Diego Pineda\\source\\repos\\TP\\ClassLibrary1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\cocheras proyecto\\tp\\classlibrary1\\classlibrary1\\repository\\carpetarepositoryfactura\\implementacion\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\repository\\carpetarepositoryfactura\\implementacion\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470EAECF-F3B4-447A-A82D-2A3B2CAFF575}|ApiClientes\\ApiClientes.csproj|c:\\users\\ema\\desktop\\cocheras proyecto\\tp\\classlibrary1\\apiclientes\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470EAECF-F3B4-447A-A82D-2A3B2CAFF575}|ApiClientes\\ApiClientes.csproj|solutionrelative:apiclientes\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\cocheras proyecto\\tp\\classlibrary1\\classlibrary1\\servicios\\facturaservicio\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\servicios\\facturaservicio\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\cocheras proyecto\\tp\\classlibrary1\\classlibrary1\\servicios\\facturaservicio\\ifacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\servicios\\facturaservicio\\ifacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\cocheras proyecto\\tp\\classlibrary1\\classlibrary1\\models\\detalle_factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\models\\detalle_factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\cocheras proyecto\\tp\\classlibrary1\\classlibrary1\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\cocheras proyecto\\tp\\classlibrary1\\classlibrary1\\repository\\carpetarepositoryfactura\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\repository\\carpetarepositoryfactura\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\cocheras proyecto\\tp\\classlibrary1\\classlibrary1\\repository\\carpetarepositoryfactura\\unitofworkfactura\\unitofworkfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\repository\\carpetarepositoryfactura\\unitofworkfactura\\unitofworkfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\cocheras proyecto\\tp\\classlibrary1\\classlibrary1\\models\\db_cocherascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\models\\db_cocherascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,33 +46,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FACTURA.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Models\\FACTURA.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\FACTURA.cs",
+              "ToolTip": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Models\\FACTURA.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\FACTURA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:31:50.727Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DETALLE_FACTURA.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Models\\DETALLE_FACTURA.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\DETALLE_FACTURA.cs",
+              "ToolTip": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Models\\DETALLE_FACTURA.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\DETALLE_FACTURA.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:31:33.778Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 250,
-          "SelectedChildIndex": -1,
-          "Children": [
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Servicios\\FacturaServicio\\IFacturaService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Servicios\\FacturaServicio\\IFacturaService.cs",
+              "ToolTip": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Servicios\\FacturaServicio\\IFacturaService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Servicios\\FacturaServicio\\IFacturaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:19:26.085Z",
+              "EditorCaption": ""
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Servicios\\FacturaServicio\\FacturaService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Servicios\\FacturaServicio\\FacturaService.cs",
+              "ToolTip": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Servicios\\FacturaServicio\\FacturaService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Servicios\\FacturaServicio\\FacturaService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:19:21.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ApiClientes\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "ApiClientes\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ApiClientes\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "ApiClientes\\Controllers\\FacturaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:48:47.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\Implementacion\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\Implementacion\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\Implementacion\\FacturaRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\Implementacion\\FacturaRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:25:29.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\Interfaces\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\Interfaces\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\Interfaces\\IFacturaRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\Interfaces\\IFacturaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:25:47.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWorkFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\UnitOfWorkFactura\\UnitOfWorkFactura.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\UnitOfWorkFactura\\UnitOfWorkFactura.cs",
+              "ToolTip": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\UnitOfWorkFactura\\UnitOfWorkFactura.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\UnitOfWorkFactura\\UnitOfWorkFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:56:18.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "db_cocherasContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Models\\db_cocherasContext.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\db_cocherasContext.cs",
+              "ToolTip": "C:\\Users\\Ema\\Desktop\\Cocheras Proyecto\\TP\\ClassLibrary1\\ClassLibrary1\\Models\\db_cocherasContext.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\db_cocherasContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:35:35.071Z",
+              "EditorCaption": ""
             }
           ]
         }

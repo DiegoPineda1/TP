@@ -2,6 +2,7 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace ClassLibrary1.Models;
 
@@ -17,7 +18,8 @@ public partial class FACTURA
 
     public virtual ICollection<DETALLE_FACTURA> DETALLE_FACTURAs { get; set; } = new List<DETALLE_FACTURA>();
 
+    [JsonIgnore]
     public virtual CLIENTE id_clienteNavigation { get; set; }
-
+    [JsonIgnore]
     public virtual TIPO_FACTURA id_tipo_facturaNavigation { get; set; }
 }

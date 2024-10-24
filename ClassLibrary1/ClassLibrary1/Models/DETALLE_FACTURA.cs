@@ -2,6 +2,7 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace ClassLibrary1.Models;
 
@@ -27,11 +28,12 @@ public partial class DETALLE_FACTURA
 
     public decimal? recargo { get; set; }
 
+    [JsonIgnore]
     public virtual ABONO id_abonoNavigation { get; set; }
-
+    [JsonIgnore]
     public virtual FACTURA id_facturaNavigation { get; set; }
-
+    [JsonIgnore]
     public virtual LUGARE id_lugarNavigation { get; set; }
-
+    [JsonIgnore]
     public virtual VEHICULO id_vehiculoNavigation { get; set; }
 }

@@ -1,10 +1,15 @@
 using BackCochera.Repository.CarpetaRepositoryCliente.Implemetacion;
 using BackCochera.Repository.CarpetaRepositoryCliente.Interfaces;
 using BackCochera.Repository.CarpetaRepositoryCliente.unitofworkClientes;
+using BackCochera.Repository.CarpetaRepositoryFactura.Implementacion;
+using BackCochera.Repository.CarpetaRepositoryFactura.Interfaces;
+using BackCochera.Repository.CarpetaRepositoryFactura.UnitOfWorkFactura;
+
 using BackCochera.Servicios.ClienteSevicio;
 using ClassLibrary1.Models;
 using ClassLibrary1.Repository.unit_of_work;
 using Microsoft.EntityFrameworkCore;
+using BackCochera.Servicios.FacturaServicio;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +20,10 @@ builder.Services.AddDbContext<db_cocherasContext>(options =>
 builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
 builder.Services.AddScoped<IUnitOfWorkCliente, UnitOfWorkCliente>();
 builder.Services.AddScoped<IClienteServicios, ClienteServicios>();
+
+builder.Services.AddScoped<IFacturaRepository, FacturaRepository>();
+builder.Services.AddScoped<IUnitOfWorkFactura, UnitOfWorkFactura>();
+builder.Services.AddScoped<IFacturaService, FacturaService>();
 
 
 
