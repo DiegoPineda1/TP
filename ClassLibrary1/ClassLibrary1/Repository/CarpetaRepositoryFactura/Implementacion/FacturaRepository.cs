@@ -28,40 +28,18 @@ namespace BackCochera.Repository.CarpetaRepositoryFactura.Implementacion
             throw new NotImplementedException();
         }
 
-        public async Task<List<DETALLE_FACTURA>> GetAll()
+        public async Task<List<FACTURA>> GetAll()
         {
-            var detalleCompleto = from detalle in _context.DETALLE_FACTURAs
-                                             join factura in _context.FACTURAs
-                                             on detalle.id_factura equals factura.id_factura
-                                             join cliente in _context.CLIENTEs
-                                             on factura.id_cliente equals cliente.id_cliente
-                                             join vehiculo in _context.VEHICULOs
-                                             on detalle.id_vehiculo equals vehiculo.id_vehiculo
-                                             join abono in _context.ABONOs
-                                             on detalle.id_abono equals abono.id_abono
-                                             join tipo_vehiculo in _context.TIPO_VEHICULOs
-                                             on vehiculo.id_tipo_vehiculo equals tipo_vehiculo.id_tipo_vehiculo
-                                             join modelo in _context.MODELOs
-                                             on vehiculo.id_modelo equals modelo.id_modelo
-                                             select new
-                                             {
-                                                 Detalle = detalle.id_detalle_factura,
-                                                 Entrada = detalle.fecha_entrada,
-                                                 Salida = detalle.fecha_salida,
-                                                 Factura = detalle.id_factura,
-                                                 Patente = vehiculo.patente,
-                                                 Tipo_Vehiculo = tipo_vehiculo.descripcion,
-                                                 Modelo = modelo.descripcion,
-                                                 Cliente = cliente.nombre,
-                                                 Abono = abono.descripcion,
-                                                 Precio = detalle.precio,
-                                                 Descuento = detalle.descuento,
-                                                 Recargo = detalle.recargo
-                                             };
+            var facturas = await _context.FACTURAs
+                .Include(f => f.DETALLE_FACTURAs)
+                    .ThenInclude(d => d.id_vehiculoNavigation)
+                        .ThenInclude(v => v.id_tipo_vehiculoNavigation)
+                .Include(f => f.DETALLE_FACTURAs)
+                    .ThenInclude(d => d.id_abonoNavigation)
+                .Include(f => f.id_clienteNavigation)
+                .ToListAsync();
 
-            var result = await detalleCompleto.ToListAsync();
-
-            return result;
+            return facturas;
         }
 
         public Task<FACTURA> GetById(int id)
