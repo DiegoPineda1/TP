@@ -21,12 +21,6 @@ builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
 builder.Services.AddScoped<IUnitOfWorkCliente, UnitOfWorkCliente>();
 builder.Services.AddScoped<IClienteServicios, ClienteServicios>();
 
-builder.Services.AddScoped<IFacturaRepository, FacturaRepository>();
-builder.Services.AddScoped<IUnitOfWorkFactura, UnitOfWorkFactura>();
-builder.Services.AddScoped<IFacturaService, FacturaService>();
-
-
-
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

@@ -5,7 +5,12 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackCochera", "ClassLibrary1\BackCochera.csproj", "{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiClientes", "ApiClientes\ApiClientes.csproj", "{470EAECF-F3B4-447A-A82D-2A3B2CAFF575}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiClientes", "ApiClientes\ApiClientes.csproj", "{470EAECF-F3B4-447A-A82D-2A3B2CAFF575}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4D4E5840-E9C0-428B-83DE-5BCEE549AC98} = {4D4E5840-E9C0-428B-83DE-5BCEE549AC98}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiFacturas", "ApiFacturas\ApiFacturas.csproj", "{1EC03307-72B0-44E6-800F-CCBEBCC1F431}"
 	ProjectSection(ProjectDependencies) = postProject
 		{4D4E5840-E9C0-428B-83DE-5BCEE549AC98} = {4D4E5840-E9C0-428B-83DE-5BCEE549AC98}
 	EndProjectSection
@@ -24,6 +29,10 @@ Global
 		{470EAECF-F3B4-447A-A82D-2A3B2CAFF575}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{470EAECF-F3B4-447A-A82D-2A3B2CAFF575}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{470EAECF-F3B4-447A-A82D-2A3B2CAFF575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EC03307-72B0-44E6-800F-CCBEBCC1F431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC03307-72B0-44E6-800F-CCBEBCC1F431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC03307-72B0-44E6-800F-CCBEBCC1F431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC03307-72B0-44E6-800F-CCBEBCC1F431}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
