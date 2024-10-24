@@ -21,9 +21,7 @@ builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
 builder.Services.AddScoped<IUnitOfWorkCliente, UnitOfWorkCliente>();
 builder.Services.AddScoped<IClienteServicios, ClienteServicios>();
 
-builder.Services.AddScoped<IFacturaRepository, FacturaRepository>();
-builder.Services.AddScoped<IUnitOfWorkFactura, UnitOfWorkFactura>();
-builder.Services.AddScoped<IFacturaService, FacturaService>();
+
 
 
 

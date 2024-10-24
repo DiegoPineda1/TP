@@ -19,50 +19,159 @@ namespace ApiClientes.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<CLIENTE>>> GetClientes()
         {
-            return await _clienteServicios.GetAllClientes();
+            try
+            {
+                if (_clienteServicios.GetAllClientes == null)
+                {
+                    return NotFound("La lista No existe");
+                }
+                if (_clienteServicios.GetAllClientes().Result.Count == 0)
+                {
+                    return NotFound("La lista De cliente esta vacia");
+                }
+                return Ok(await _clienteServicios.GetAllClientes());
+            }
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Error al obtener la lista de clientes");
+            }
         }
 
 
         [HttpGet("{id}")]
         public async Task<ActionResult<CLIENTE>> GetCliente(int id)
         {
-            var cliente = await _clienteServicios.GetClienteById(id);
-            if (cliente == null)
+            try
             {
-                return NotFound();
+                if (id == 0)
+                {
+                    return BadRequest("El id no puede ser 0");
+                }
+                var cliente = await _clienteServicios.GetClienteById(id);
+                if (cliente == null)
+                {
+                    return NotFound("El Cliete no existe");
+                }
+                return cliente;
             }
-            return cliente;
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Error al obtener el cliente");
+            }
+            
         }
         [HttpPut("{id}")]
         public async Task<IActionResult> PutCliente(int id, CLIENTE cliente)
         {
-            if (id != cliente.id_cliente)
+            try
             {
-                return BadRequest();
+                if (id != cliente.id_cliente)
+                {
+                    return BadRequest("El id no coincide con el cliente");
+                }
+                if(!validarCampos(cliente))
+                {
+                    return BadRequest("Los campos no pueden ser nulos");
+                }
+                var actualizado = await _clienteServicios.UpdateCliente(id, cliente);
+                if (!actualizado)
+                {
+                    return NotFound("El cliente no existe");
+                }
+                return Ok(id + " " + "Actualizado");
             }
-            var actualizado = await _clienteServicios.UpdateCliente(id, cliente);
-            if (!actualizado)
+            catch (Exception)
             {
-                return NotFound();
+                return StatusCode(StatusCodes.Status500InternalServerError, "Error al actualizar el cliente");
             }
-            return NoContent();
+            
         }
         [HttpPost]
         public async Task<ActionResult<CLIENTE>> PostCliente(CLIENTE cliente)
         {
-            await _clienteServicios.CreateCliente(cliente);
-            return CreatedAtAction("GetCliente", new { id = cliente.id_cliente }, cliente);
+            try
+            {
+                if(!validarCampos(cliente))
+                {
+                    return BadRequest("Los campos no pueden ser nulos");
+                }
+                if(cliente.id_cliente != 0)
+                {
+                    return BadRequest("El id no puede ser distinto de 0");
+                }
+                if(cliente.id_cliente == 0 || cliente.id_direccion == 0 || cliente.id_iva == 0 || cliente.id_tipo_dni == 0)
+                {
+                    return BadRequest("Los id no pueden ser 0");
+                }
+                await _clienteServicios.CreateCliente(cliente);
+                return Ok("Se Agrego Correctamente");
+            }
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Error al crear el cliente");
+                throw;
+            }
+            
         }
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteCliente(int id)
         {
-            var eliminado = await _clienteServicios.DeleteCliente(id);
-            if (!eliminado)
+            try
             {
-                return NotFound();
+                if(id == 0)
+                {
+                    return BadRequest("El id no puede ser 0");
+                }
+                var existe = await _clienteServicios.GetClienteById(id);
+                if(existe == null)
+                {
+                    return NotFound("El cliente no existe");
+                }
+                await _clienteServicios.DeleteCliente(id);
+                return Ok("Cliente eliminado");
+            }
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Error al eliminar el cliente");
+                throw;
             }
             
-            return NoContent();
+        }
+        private bool validarCampos(CLIENTE cliente)
+        {
+            if (cliente == null)
+            {
+                return false;
+            }
+            if (cliente.nombre == null || cliente.nombre == "")
+            {
+                return false;
+            }
+            if (cliente.apellido == null || cliente.apellido == "")
+            {
+                return false;
+            }
+            if (cliente.contrasenia == null || cliente.contrasenia == "")
+            {
+                return false;
+            }
+            if (cliente.dni == null || cliente.dni == "")
+            {
+                return false;
+            }
+            if (cliente.telefono == null || cliente.telefono == "")
+            {
+                return false;
+            }
+            if(cliente.nro_cuit == null || cliente.nro_cuit == "")
+            {
+                return false;
+            }
+            if (cliente.e_mail == null || cliente.e_mail == "")
+            {
+                return false;
+            }
+            return true;
         }
     }
 }
