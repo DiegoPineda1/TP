@@ -1,4 +1,5 @@
 ﻿using BackCochera.Repository.CarpetaRepositoryCliente.unitofworkClientes;
+using BackCochera.Servicios.ClienteSevicio;
 using ClassLibrary1.Models;
 using ClassLibrary1.Repository.unit_of_work;
 using Microsoft.AspNetCore.Http;
@@ -10,22 +11,22 @@ namespace ApiClientes.Controllers
     [ApiController]
     public class ClienteCotroller : ControllerBase
     {
-        private readonly IUnitOfWorkCliente _unitOfWork;
-        public ClienteCotroller(IUnitOfWorkCliente unitOfWork)
+        private readonly IClienteServicios _clienteServicios;
+        public ClienteCotroller(IClienteServicios IClienteServicios)
         {
-            _unitOfWork = unitOfWork;
+            _clienteServicios = IClienteServicios;
         }
         [HttpGet]
         public async Task<ActionResult<IEnumerable<CLIENTE>>> GetClientes()
         {
-            return await _unitOfWork.ClienteRepository.GetAllClientes();
+            return await _clienteServicios.GetAllClientes();
         }
 
 
         [HttpGet("{id}")]
         public async Task<ActionResult<CLIENTE>> GetCliente(int id)
         {
-            var cliente = await _unitOfWork.ClienteRepository.GetClienteById(id);
+            var cliente = await _clienteServicios.GetClienteById(id);
             if (cliente == null)
             {
                 return NotFound();
@@ -39,7 +40,7 @@ namespace ApiClientes.Controllers
             {
                 return BadRequest();
             }
-            var actualizado = await _unitOfWork.ClienteRepository.UpdateCliente(id, cliente);
+            var actualizado = await _clienteServicios.UpdateCliente(id, cliente);
             if (!actualizado)
             {
                 return NotFound();
@@ -49,19 +50,18 @@ namespace ApiClientes.Controllers
         [HttpPost]
         public async Task<ActionResult<CLIENTE>> PostCliente(CLIENTE cliente)
         {
-            await _unitOfWork.ClienteRepository.CreateCliente(cliente);
-            await _unitOfWork.SaveChangesAsync();
+            await _clienteServicios.CreateCliente(cliente);
             return CreatedAtAction("GetCliente", new { id = cliente.id_cliente }, cliente);
         }
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteCliente(int id)
         {
-            var eliminado = await _unitOfWork.ClienteRepository.DeleteCliente(id);
+            var eliminado = await _clienteServicios.DeleteCliente(id);
             if (!eliminado)
             {
                 return NotFound();
             }
-            await _unitOfWork.SaveChangesAsync();
+            
             return NoContent();
         }
     }
