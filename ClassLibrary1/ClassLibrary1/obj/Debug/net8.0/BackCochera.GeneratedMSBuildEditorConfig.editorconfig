@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BackCochera
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Sofi\Desktop\CocheraApi\TP\ClassLibrary1\ClassLibrary1\
+=======
+build_property.ProjectDir = C:\Users\Usuario\Desktop\TPI MOD\TP\ClassLibrary1\ClassLibrary1\
+>>>>>>> 96e3b9def331b5297e87f872a481e23e8382e5a7
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

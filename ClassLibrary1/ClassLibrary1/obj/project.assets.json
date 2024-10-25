@@ -4040,11 +4040,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Sofi\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+>>>>>>> 96e3b9def331b5297e87f872a481e23e8382e5a7
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Sofi\\Desktop\\CocheraApi\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj",
       "projectName": "BackCochera",
       "projectPath": "C:\\Users\\Sofi\\Desktop\\CocheraApi\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj",
@@ -4053,6 +4058,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sofi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\TPI MOD\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj",
+      "projectName": "BackCochera",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\TPI MOD\\TP\\ClassLibrary1\\ClassLibrary1\\BackCochera.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\TPI MOD\\TP\\ClassLibrary1\\ClassLibrary1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 96e3b9def331b5297e87f872a481e23e8382e5a7
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4109,7 +4124,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 96e3b9def331b5297e87f872a481e23e8382e5a7
       }
     }
   }

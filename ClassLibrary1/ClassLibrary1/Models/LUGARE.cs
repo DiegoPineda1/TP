@@ -2,6 +2,7 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace ClassLibrary1.Models;
 
@@ -11,5 +12,7 @@ public partial class LUGARE
 
     public bool? esta_ocupado { get; set; }
 
+
+    [JsonIgnore]
     public virtual ICollection<DETALLE_FACTURA> DETALLE_FACTURAs { get; set; } = new List<DETALLE_FACTURA>();
 }

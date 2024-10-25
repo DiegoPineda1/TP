@@ -9,11 +9,19 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ApiVehiculo
 build_property.RootNamespace = ApiVehiculo
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Sofi\Desktop\CocheraApi\TP\ClassLibrary1\ApiVehiculo\
+=======
+build_property.ProjectDir = C:\Users\Usuario\Desktop\TPI MOD\TP\ClassLibrary1\ApiVehiculo\
+>>>>>>> 96e3b9def331b5297e87f872a481e23e8382e5a7
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\Sofi\Desktop\CocheraApi\TP\ClassLibrary1\ApiVehiculo
+=======
+build_property.MSBuildProjectDirectory = C:\Users\Usuario\Desktop\TPI MOD\TP\ClassLibrary1\ApiVehiculo
+>>>>>>> 96e3b9def331b5297e87f872a481e23e8382e5a7
 build_property._RazorSourceGeneratorDebug = 
