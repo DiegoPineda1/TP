@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiAbonos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1aedfc58b496bd4f2bbf5dd94b17c41f0a0112fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a1a9d30e681fe4a53c544afc404b577caa9c88d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiAbonos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiAbonos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -15,4 +15,11 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repository\CarpetaRepositoryLugar\Implementacion\" />
+    <Folder Include="Repository\CarpetaRepositoryLugar\Interfaces\" />
+    <Folder Include="Repository\CarpetaRepositoryLugar\UnitOfWorkLugar\" />
+    <Folder Include="Servicios\LugarServicio\" />
+  </ItemGroup>
+
 </Project>
