@@ -48,7 +48,7 @@ public partial class db_cocherasContext : DbContext
     public virtual DbSet<VEHICULO> VEHICULOs { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Data Source=.\\MSSQLSERVER01;Initial Catalog=db_cochera;Integrated Security=True;Encrypt=False");
+        => optionsBuilder.UseSqlServer("Data Source=DiegoPineda;Initial Catalog=db_cocheras;Integrated Security=True;Encrypt=False");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackCochera")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+059b6b01d364f68be435d6b0730cc529dbbd6ca5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1aedfc58b496bd4f2bbf5dd94b17c41f0a0112fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackCochera")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackCochera")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

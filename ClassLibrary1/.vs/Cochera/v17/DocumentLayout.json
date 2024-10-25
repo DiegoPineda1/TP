@@ -1,62 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\",
+  "WorkspaceRootPath": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1A15D87-F9C2-493D-A884-9F6C3C82BC0C}|ApiFactura\\ApiFactura.csproj|c:\\users\\ema\\desktop\\nuevo cochera\\tp\\classlibrary1\\apifactura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1A15D87-F9C2-493D-A884-9F6C3C82BC0C}|ApiFactura\\ApiFactura.csproj|solutionrelative:apifactura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\diego pineda\\desktop\\1\\classlibrary1\\classlibrary1\\repository\\carpetarepositorycliente\\implemetacion\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\repository\\carpetarepositorycliente\\implemetacion\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\nuevo cochera\\tp\\classlibrary1\\classlibrary1\\repository\\carpetarepositoryfactura\\implementacion\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\repository\\carpetarepositoryfactura\\implementacion\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1A15D87-F9C2-493D-A884-9F6C3C82BC0C}|ApiFactura\\ApiFactura.csproj|c:\\users\\ema\\desktop\\nuevo cochera\\tp\\classlibrary1\\apifactura\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E1A15D87-F9C2-493D-A884-9F6C3C82BC0C}|ApiFactura\\ApiFactura.csproj|solutionrelative:apifactura\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1A15D87-F9C2-493D-A884-9F6C3C82BC0C}|ApiFactura\\ApiFactura.csproj|c:\\users\\ema\\desktop\\nuevo cochera\\tp\\classlibrary1\\apifactura\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1A15D87-F9C2-493D-A884-9F6C3C82BC0C}|ApiFactura\\ApiFactura.csproj|solutionrelative:apifactura\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{172340CF-DDFD-458C-BA2C-6F0C6C59AB35}|ApiVehiculo\\ApiVehiculo.csproj|c:\\users\\ema\\desktop\\nuevo cochera\\tp\\classlibrary1\\apivehiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{172340CF-DDFD-458C-BA2C-6F0C6C59AB35}|ApiVehiculo\\ApiVehiculo.csproj|solutionrelative:apivehiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{172340CF-DDFD-458C-BA2C-6F0C6C59AB35}|ApiVehiculo\\ApiVehiculo.csproj|c:\\users\\ema\\desktop\\nuevo cochera\\tp\\classlibrary1\\apivehiculo\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{172340CF-DDFD-458C-BA2C-6F0C6C59AB35}|ApiVehiculo\\ApiVehiculo.csproj|solutionrelative:apivehiculo\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{470EAECF-F3B4-447A-A82D-2A3B2CAFF575}|ApiClientes\\ApiClientes.csproj|c:\\users\\ema\\desktop\\nuevo cochera\\tp\\classlibrary1\\apiclientes\\controllers\\clientecotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{470EAECF-F3B4-447A-A82D-2A3B2CAFF575}|ApiClientes\\ApiClientes.csproj|c:\\users\\diego pineda\\desktop\\1\\classlibrary1\\apiclientes\\controllers\\clientecotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{470EAECF-F3B4-447A-A82D-2A3B2CAFF575}|ApiClientes\\ApiClientes.csproj|solutionrelative:apiclientes\\controllers\\clientecotroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\nuevo cochera\\tp\\classlibrary1\\classlibrary1\\servicios\\facturaservicio\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\servicios\\facturaservicio\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{470EAECF-F3B4-447A-A82D-2A3B2CAFF575}|ApiClientes\\ApiClientes.csproj|c:\\users\\diego pineda\\desktop\\1\\classlibrary1\\apiclientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{470EAECF-F3B4-447A-A82D-2A3B2CAFF575}|ApiClientes\\ApiClientes.csproj|solutionrelative:apiclientes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\nuevo cochera\\tp\\classlibrary1\\classlibrary1\\servicios\\facturaservicio\\ifacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\servicios\\facturaservicio\\ifacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\nuevo cochera\\tp\\classlibrary1\\classlibrary1\\models\\detalle_factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\models\\detalle_factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\nuevo cochera\\tp\\classlibrary1\\classlibrary1\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\nuevo cochera\\tp\\classlibrary1\\classlibrary1\\repository\\carpetarepositoryfactura\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\repository\\carpetarepositoryfactura\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\nuevo cochera\\tp\\classlibrary1\\classlibrary1\\repository\\carpetarepositoryfactura\\unitofworkfactura\\unitofworkfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\repository\\carpetarepositoryfactura\\unitofworkfactura\\unitofworkfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\ema\\desktop\\nuevo cochera\\tp\\classlibrary1\\classlibrary1\\models\\db_cocherascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\diego pineda\\desktop\\1\\classlibrary1\\classlibrary1\\models\\db_cocherascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\models\\db_cocherascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470EAECF-F3B4-447A-A82D-2A3B2CAFF575}|ApiClientes\\ApiClientes.csproj|c:\\users\\diego pineda\\desktop\\1\\classlibrary1\\apiclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470EAECF-F3B4-447A-A82D-2A3B2CAFF575}|ApiClientes\\ApiClientes.csproj|solutionrelative:apiclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\diego pineda\\desktop\\1\\classlibrary1\\classlibrary1\\repository\\carpetarepositorycliente\\unitofworkclientes\\unitofworkcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\repository\\carpetarepositorycliente\\unitofworkclientes\\unitofworkcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE668FFD-8C21-4289-A442-331A0972DABD}|ApiAbonos\\ApiAbonos.csproj|c:\\users\\diego pineda\\desktop\\1\\classlibrary1\\apiabonos\\controllers\\abonocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE668FFD-8C21-4289-A442-331A0972DABD}|ApiAbonos\\ApiAbonos.csproj|solutionrelative:apiabonos\\controllers\\abonocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE668FFD-8C21-4289-A442-331A0972DABD}|ApiAbonos\\ApiAbonos.csproj|c:\\users\\diego pineda\\desktop\\1\\classlibrary1\\apiabonos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE668FFD-8C21-4289-A442-331A0972DABD}|ApiAbonos\\ApiAbonos.csproj|solutionrelative:apiabonos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|c:\\users\\diego pineda\\desktop\\1\\classlibrary1\\classlibrary1\\servicios\\abonoservicio\\iabonoservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4E5840-E9C0-428B-83DE-5BCEE549AC98}|ClassLibrary1\\BackCochera.csproj|solutionrelative:classlibrary1\\servicios\\abonoservicio\\iabonoservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,27 +46,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiFactura\\Program.cs",
-              "RelativeDocumentMoniker": "ApiFactura\\Program.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiFactura\\Program.cs",
-              "RelativeToolTip": "ApiFactura\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T03:01:58.22Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiFactura\\appsettings.json",
@@ -96,41 +88,90 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-24T03:01:52.864Z"
+=======
+              "DocumentIndex": 0,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ClassLibrary1\\Repository\\CarpetaRepositoryCliente\\Implemetacion\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repository\\CarpetaRepositoryCliente\\Implemetacion\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ClassLibrary1\\Repository\\CarpetaRepositoryCliente\\Implemetacion\\ClienteRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repository\\CarpetaRepositoryCliente\\Implemetacion\\ClienteRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:13:35.103Z",
+              "EditorCaption": ""
+>>>>>>> dbed115b724230f68afd08718744cc960053b252
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FacturaController.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiFactura\\Controllers\\FacturaController.cs",
-              "RelativeDocumentMoniker": "ApiFactura\\Controllers\\FacturaController.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiFactura\\Controllers\\FacturaController.cs",
-              "RelativeToolTip": "ApiFactura\\Controllers\\FacturaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Title": "db_cocherasContext.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ClassLibrary1\\Models\\db_cocherasContext.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\db_cocherasContext.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ClassLibrary1\\Models\\db_cocherasContext.cs",
+              "RelativeToolTip": "ClassLibrary1\\Models\\db_cocherasContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDIAAACCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2024-10-24T02:59:19.781Z"
+=======
+              "WhenOpened": "2024-10-24T18:09:07.736Z",
+              "EditorCaption": ""
+>>>>>>> dbed115b724230f68afd08718744cc960053b252
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiVehiculo\\Program.cs",
-              "RelativeDocumentMoniker": "ApiVehiculo\\Program.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiVehiculo\\Program.cs",
-              "RelativeToolTip": "ApiVehiculo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ApiClientes\\Program.cs",
+              "RelativeDocumentMoniker": "ApiClientes\\Program.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ApiClientes\\Program.cs",
+              "RelativeToolTip": "ApiClientes\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2024-10-24T02:35:36.804Z"
+=======
+              "WhenOpened": "2024-10-24T18:08:15.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ApiClientes\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiClientes\\appsettings.json",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ApiClientes\\appsettings.json",
+              "RelativeToolTip": "ApiClientes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T18:06:01.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteCotroller.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ApiClientes\\Controllers\\ClienteCotroller.cs",
+              "RelativeDocumentMoniker": "ApiClientes\\Controllers\\ClienteCotroller.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ApiClientes\\Controllers\\ClienteCotroller.cs",
+              "RelativeToolTip": "ApiClientes\\Controllers\\ClienteCotroller.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:28:57.953Z",
+              "EditorCaption": ""
+>>>>>>> dbed115b724230f68afd08718744cc960053b252
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ClienteCotroller.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiClientes\\Controllers\\ClienteCotroller.cs",
-              "RelativeDocumentMoniker": "ApiClientes\\Controllers\\ClienteCotroller.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiClientes\\Controllers\\ClienteCotroller.cs [Solo lectura]",
-              "RelativeToolTip": "ApiClientes\\Controllers\\ClienteCotroller.cs [Solo lectura]",
-              "ViewState": "AgIAABoAAAAAAAAAAAA3wB4AAAANAAAAAQAAAA==",
+              "Title": "AbonoController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ApiAbonos\\Controllers\\AbonoController.cs",
+              "RelativeDocumentMoniker": "ApiAbonos\\Controllers\\AbonoController.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ApiAbonos\\Controllers\\AbonoController.cs",
+              "RelativeToolTip": "ApiAbonos\\Controllers\\AbonoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2024-10-24T02:16:30.171Z",
               "EditorCaption": " [Solo lectura]"
             },
@@ -157,90 +198,73 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T00:25:29.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VehiculoController.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiVehiculo\\Controllers\\VehiculoController.cs",
-              "RelativeDocumentMoniker": "ApiVehiculo\\Controllers\\VehiculoController.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ApiVehiculo\\Controllers\\VehiculoController.cs",
-              "RelativeToolTip": "ApiVehiculo\\Controllers\\VehiculoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T02:21:55.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DETALLE_FACTURA.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\Models\\DETALLE_FACTURA.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\DETALLE_FACTURA.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\Models\\DETALLE_FACTURA.cs",
-              "RelativeToolTip": "ClassLibrary1\\Models\\DETALLE_FACTURA.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T01:31:33.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IFacturaService.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\Servicios\\FacturaServicio\\IFacturaService.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Servicios\\FacturaServicio\\IFacturaService.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\Servicios\\FacturaServicio\\IFacturaService.cs",
-              "RelativeToolTip": "ClassLibrary1\\Servicios\\FacturaServicio\\IFacturaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T01:19:26.085Z"
+=======
+              "WhenOpened": "2024-10-24T17:12:11.958Z",
+              "EditorCaption": ""
+>>>>>>> dbed115b724230f68afd08718744cc960053b252
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "FacturaService.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\Servicios\\FacturaServicio\\FacturaService.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Servicios\\FacturaServicio\\FacturaService.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\Servicios\\FacturaServicio\\FacturaService.cs",
-              "RelativeToolTip": "ClassLibrary1\\Servicios\\FacturaServicio\\FacturaService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ApiAbonos\\Program.cs",
+              "RelativeDocumentMoniker": "ApiAbonos\\Program.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ApiAbonos\\Program.cs",
+              "RelativeToolTip": "ApiAbonos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T01:19:21.933Z"
+              "WhenOpened": "2024-10-24T17:11:33.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IFacturaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\Interfaces\\IFacturaRepository.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\Interfaces\\IFacturaRepository.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\Interfaces\\IFacturaRepository.cs",
-              "RelativeToolTip": "ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\Interfaces\\IFacturaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWorkCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ClassLibrary1\\Repository\\CarpetaRepositoryCliente\\unitofworkClientes\\UnitOfWorkCliente.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repository\\CarpetaRepositoryCliente\\unitofworkClientes\\UnitOfWorkCliente.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ClassLibrary1\\Repository\\CarpetaRepositoryCliente\\unitofworkClientes\\UnitOfWorkCliente.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repository\\CarpetaRepositoryCliente\\unitofworkClientes\\UnitOfWorkCliente.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T00:25:47.928Z"
+              "WhenOpened": "2024-10-24T16:55:09.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UnitOfWorkFactura.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\UnitOfWorkFactura\\UnitOfWorkFactura.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\UnitOfWorkFactura\\UnitOfWorkFactura.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\UnitOfWorkFactura\\UnitOfWorkFactura.cs",
-              "RelativeToolTip": "ClassLibrary1\\Repository\\CarpetaRepositoryFactura\\UnitOfWorkFactura\\UnitOfWorkFactura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IAbonoServicios.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ClassLibrary1\\Servicios\\AbonoServicio\\IAbonoServicios.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Servicios\\AbonoServicio\\IAbonoServicios.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Desktop\\1\\ClassLibrary1\\ClassLibrary1\\Servicios\\AbonoServicio\\IAbonoServicios.cs",
+              "RelativeToolTip": "ClassLibrary1\\Servicios\\AbonoServicio\\IAbonoServicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T00:56:18.679Z"
+              "WhenOpened": "2024-10-24T16:02:49.415Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "db_cocherasContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\Models\\db_cocherasContext.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Models\\db_cocherasContext.cs",
-              "ToolTip": "C:\\Users\\Ema\\Desktop\\Nuevo Cochera\\TP\\ClassLibrary1\\ClassLibrary1\\Models\\db_cocherasContext.cs",
-              "RelativeToolTip": "ClassLibrary1\\Models\\db_cocherasContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T23:35:35.071Z"
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
